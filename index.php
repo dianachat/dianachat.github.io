@@ -9,7 +9,7 @@
 			newCss.type = 'text/css';
 			window._botUsername = '527544';
 			window._botName = 'Diana';
-			newCss.href = "/css/chatbost.css";
+			newCss.href = "chatbost.css";
 			var newScript = document.createElement('script');
 			newScript.src = "http://rebot.me/assets/js/bot.js";
 			newScript.type = 'text/javascript';
@@ -17,7 +17,7 @@
 			headID.appendChild(newCss);
 		</script>
 
-		<link rel="stylesheet" type="text/css" href="/css/page.css" />
+		<link rel="stylesheet" type="text/css" href="page.css" />
 	</head>
 	<body>
 		<div id="diana"></div>
